@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @norwood5518
 - 👀 I’m interested in starting an IT career in Cloud Computing.
 - 🌱 I’m currently learning the basics of Python and AWS Cloud.
-- 💞️ I’m looking to collaborate on anything that can be used tobbuild a portfolio of Projects.
+- 💞️ I’m looking to collaborate on anything that can be used to build a portfolio of Projects.
 - 📫 How to reach me mister.pooh@icloud.com or richardlnorwood@gmail.com
 
 <!---
